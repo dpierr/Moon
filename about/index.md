@@ -6,7 +6,7 @@ date: 2019-07-30
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Thyo</b></a> is a local baby boy.</center>
+<center><a href="http://taylantatli.github.io/Moon"><b>Thyo</b></a> is a local baby boy in Pennsylvania. He likes to eat rocks, bark at cars, and hang out with his homies. Sometimes he even does cool stuff, but that isn't very often 🤷</center>
 
 ## Life Updates
 * Minimal, you can focus on your content
