@@ -9,16 +9,11 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Thyo</b></a> is a local baby boy from Pennsylvania. He likes to eat rocks, bark at cars, and hang out with his homies. Sometimes he even does cool stuff, but that isn't very often 🤷</center>
 
 ## Life Updates
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Listen to me whine about my life.
+* Watch me cry.
+* I spill tea and throw shade at all my friends.
+* I talk about my hopes and dreams, and lame stuff like that.
+* Pics of myself and my cat
 
 ## Art 
 
@@ -28,17 +23,16 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Poetry and Prose
 
-## Poetry and Fiction
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* Some poems
+* Some fiction
+* Some existential theories 
 
 
-## Social Commentary
+## Social Commentary (Videos and Thinkpieces)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* The Gay Agenda 
+* I rant about how much the world sucks
+* I talk about my love for Mister Rogers
+* Fashion tips? Idk Some gays do not know how to dress, they need help 
